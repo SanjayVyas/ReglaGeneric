@@ -1,0 +1,11 @@
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/obj/Debug/netcoreapp3.1/Regla.csprojAssemblyReference.cache
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/obj/Debug/netcoreapp3.1/Regla.AssemblyInfoInputs.cache
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/obj/Debug/netcoreapp3.1/Regla.AssemblyInfo.cs
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/bin/Debug/netcoreapp3.1/Regla
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/bin/Debug/netcoreapp3.1/Regla.deps.json
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/bin/Debug/netcoreapp3.1/Regla.runtimeconfig.json
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/bin/Debug/netcoreapp3.1/Regla.runtimeconfig.dev.json
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/bin/Debug/netcoreapp3.1/Regla.dll
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/bin/Debug/netcoreapp3.1/Regla.pdb
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/obj/Debug/netcoreapp3.1/Regla.dll
+/mnt/firma/MEGA/CodeKhazana/C#/Regla/obj/Debug/netcoreapp3.1/Regla.pdb
