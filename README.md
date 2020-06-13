@@ -14,7 +14,7 @@ Rule encapsulates a method to call and its attributes
 * Rules can specify whether to stop on failure or exception
 * Rules can be composed of AndRules or OrRules for short circuiting
 
-RuleMethod can be provided in 3 forms
+RuleMethod can be provided in 4 forms
 1. A delegate function
 2. A lambda expression
 3. A class implementing IRule
